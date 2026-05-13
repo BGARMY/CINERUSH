@@ -269,7 +269,7 @@ values
 (213, 2, 'Padma Veereswara Picture Palace', '2026-05-23', '10:30:00', 119),
 (214, 2, 'Padma Veereswara Picture Palace', '2026-05-23', '14:15:00', 119),
 (215, 2, 'Padma Veereswara Picture Palace', '2026-05-23', '18:00:00', 119),
-(216, 2, 'Padma Veereswara Picture Palace', '2026-05-23', '21:30:00', 119);
+(216, 2, 'Padma Veereswara Picture Palace', '2026-05-23', '21:30:00', 119),
 
 (217, 2, 'Padma Veereswara Picture Palace', '2026-05-24', '10:30:00', 119),
 (218, 2, 'Padma Veereswara Picture Palace', '2026-05-24', '14:15:00', 119),
@@ -309,6 +309,6 @@ values
 (245, 2, 'Padma Veereswara Picture Palace', '2026-05-31', '10:30:00', 119),
 (246, 2, 'Padma Veereswara Picture Palace', '2026-05-31', '14:15:00', 119),
 (247, 2, 'Padma Veereswara Picture Palace', '2026-05-31', '18:00:00', 119),
-(248, 2, 'Padma Veereswara Picture Palace', '2026-05-31', '21:30:00', 119),
+(248, 2, 'Padma Veereswara Picture Palace', '2026-05-31', '21:30:00', 119);
 
 SELECT * FROM cinerush.showtimes;
